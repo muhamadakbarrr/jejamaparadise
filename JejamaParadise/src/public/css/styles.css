@@ -1,0 +1,128 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f8ff;
+    color: #333;
+}
+
+.app-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 25px;
+    background-color: #007bff;
+    color: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.app-bar__brand h1 {
+    margin: 0;
+    font-size: 1.5em;
+}
+
+.app-bar__navigation ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.app-bar__navigation li {
+    margin-right: 20px;
+}
+
+.app-bar__navigation a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.app-bar__navigation a:hover {
+    color: #ffeb3b;
+}
+
+.app-bar__menu {
+    display: none;
+}
+
+.hero {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    background: linear-gradient(to right, #007bff, #00bfff);
+    color: white;
+    text-align: center;
+    padding: 50px 20px;
+}
+
+.hero-image {
+    width: 100%;
+    height: auto;
+    max-height: 500px;
+    object-fit: cover;
+    opacity: 0.8;
+}
+
+@media (min-width: 1200px) {
+    .hero-image {
+        width: 1000px;
+    }
+}
+
+.tourist-places {
+    padding: 40px 20px;
+    background-color: #e3f2fd;
+}
+
+#places-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.place {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 15px;
+    width: calc(33.333% - 20px);
+    box-sizing: border-box;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.place:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.place img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.place h3 {
+    margin: 10px 0 5px;
+    color: #007bff;
+}
+
+.place p {
+    margin: 0 0 10px;
+    color: #666;
+}
+
+footer {
+    background-color: #007bff;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+    margin-top: 20px;
+    box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
+}
+
+footer p {
+    margin: 0;
+}

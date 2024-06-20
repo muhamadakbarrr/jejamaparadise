@@ -1,0 +1,63 @@
+[
+    {
+      "nama": "Pantai Tanjung Setia",
+      "deskripsi": "Pantai terkenal di Lampung yang dikenal dengan ombak besar yang ideal untuk berselancar.",
+      "link_gmaps": "https://goo.gl/maps/q1JGj8yN1xT2",
+      "image": "pantai-tanjung-setia.jpg"
+    },
+    {
+      "nama": "Pulau Pahawang",
+      "deskripsi": "Pulau eksotis yang menawarkan keindahan bawah laut yang menakjubkan, ideal untuk snorkeling dan diving.",
+      "link_gmaps": "https://goo.gl/maps/2ybKxgJtVQ62",
+      "image": "pulau-pahawang.jpg"
+    },
+    {
+      "nama": "Taman Nasional Way Kambas",
+      "deskripsi": "Tempat konservasi gajah yang juga menawarkan pengalaman safari dan trekking di alam liar.",
+      "link_gmaps": "https://goo.gl/maps/BP3p1aE5B5H2",
+      "image": "taman-nasional-way-kambas.jpg"
+    },
+    {
+      "nama": "Pantai Mutun",
+      "deskripsi": "Pantai indah dengan pasir putih dan air jernih, ideal untuk berenang dan bermain pasir.",
+      "link_gmaps": "https://goo.gl/maps/jW5y7cM9ST62",
+      "image": "pantai-mutun.jpg"
+    },
+    {
+      "nama": "Air Terjun Putri Malu",
+      "deskripsi": "Air terjun yang indah dengan ketinggian sekitar 80 meter, menawarkan pemandangan yang mempesona.",
+      "link_gmaps": "https://goo.gl/maps/G4lF9N5nXU12",
+      "image": "air-terjun-putri-malu.jpg"
+    },
+    {
+      "nama": "Pulau Kiluan",
+      "deskripsi": "Pulau kecil yang terkenal dengan lumba-lumba liar yang sering terlihat di sekitar perairan.",
+      "link_gmaps": "https://goo.gl/maps/3JqW5s8W2YU2",
+      "image": "pulau-kiluan.jpg"
+    },
+    {
+      "nama": "Pantai Gigi Hiu",
+      "deskripsi": "Pantai unik dengan batu karang yang menjulang tinggi seperti gigi hiu, sangat fotogenik.",
+      "link_gmaps": "https://goo.gl/maps/v8RtL9z3Y8v",
+      "image": "pantai-gigi-hiu.jpg"
+    },
+    {
+      "nama": "Gunung Krakatau",
+      "deskripsi": "Gunung berapi aktif yang menawarkan pendakian dan pemandangan spektakuler dari puncaknya.",
+      "link_gmaps": "https://goo.gl/maps/z1E5L9m1zQ72",
+      "image": "gunung-krakatau.jpg"
+    },
+    {
+      "nama": "Teluk Kiluan",
+      "deskripsi": "Teluk dengan keindahan alam yang luar biasa, ideal untuk berkemah dan menikmati matahari terbenam.",
+      "link_gmaps": "https://goo.gl/maps/L8X4F1p9sQJ2",
+      "image": "teluk-kiluan.jpg"
+    },
+    {
+      "nama": "Curup Gangsa",
+      "deskripsi": "Air terjun yang memukau dengan aliran air yang deras dan lingkungan sekitar yang hijau dan asri.",
+      "link_gmaps": "https://goo.gl/maps/qR6F2cV1wX52",
+      "image": "curup-gangsa.jpg"
+    }
+  ]
+  
